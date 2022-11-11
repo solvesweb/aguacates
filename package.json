@@ -1,7 +1,7 @@
 {
   "name": "aguacates",
   "version": "1.0.0",
-  "description": "JavaScript Tailwind CSS",
+  "description": "Sitio web que usa una Api externa",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -2,13 +2,13 @@
   "name": "aguacates",
   "version": "1.0.0",
   "description": "JavaScript Tailwind CSS",
-  "main": "./public/index.html",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/solvesweb/aguacates"
+    "url": "git+https://github.com/solvesweb/aguacates.git"
   },
   "keywords": [
     "JavaScript",

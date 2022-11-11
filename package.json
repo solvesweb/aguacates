@@ -1,0 +1,27 @@
+{
+  "name": "aguacates",
+  "version": "1.0.0",
+  "description": "JavaScript Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solvesweb/aguacates.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Tailwind",
+    "CSS"
+  ],
+  "author": "Jose Manuel Solves <solvesweb@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solvesweb/aguacates/issues"
+  },
+  "homepage": "https://github.com/solvesweb/aguacates#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.3"
+  }
+}
